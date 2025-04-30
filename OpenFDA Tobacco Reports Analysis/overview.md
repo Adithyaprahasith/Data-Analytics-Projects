@@ -1,4 +1,4 @@
-# 🚬 Tobacco Complaint Data Analysis & AI Application
+# OpenFDA Tobacco Reports Analysis
 
 This project analyzes FDA tobacco product complaint reports to uncover public health insights, forecast future risks, and build an intelligent Q&A system using Retrieval-Augmented Generation (RAG).
 
