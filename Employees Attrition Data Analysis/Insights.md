@@ -40,7 +40,7 @@ Expand stock options  and revamp benefits for overtime hours.
 ---
 
 
-## Key Metrics 
+## Key Visualizations 
 
 ![Metrics](images/metrics.png)
 ---
@@ -52,7 +52,27 @@ Expand stock options  and revamp benefits for overtime hours.
 ![Metrics](images/i3.png)
 
 ---
+## Key Insights 
 
+Current attrition rate is 16%, above industry benchmark.
+Average employee tenure is just 2 years, showing short career cycles.
+
+Sales (21%) and HR (19%) suffer the highest attrition.
+Sales Representatives (24%) and HR Associates (23%), compared to more stable roles like Lab Technicians (14%).
+
+Younger employees (18–35) are leaving disproportionately, with shorter tenures.
+Attrition among males is higher (63%) compared to females.
+
+Frequent travelers (95% attrition rate) and employees with long commutes are at much higher risk.
+Overtime is another pressure point tied to attrition.
+
+Employees in lower salary slabs (≤10k) show the highest attrition.
+Average monthly income of leavers ($4.8k) is much lower than stayers ($6.8k).
+34% of leavers had not been promoted within 2 years.
+65% of attrition employees did not receive stock options, weakening retention incentives.
+Employees who left reported lower job satisfaction (2.46 vs 2.78).
+
+---
 ## Tools 
 
 * Microsoft Excel → Data Cleaning & Validation.
