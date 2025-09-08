@@ -40,11 +40,13 @@ Expand stock options  and revamp benefits for overtime hours.
 ---
 
 
-## Key Visualizations 
+## Key Metrics 
 
 ![Metrics](images/metrics.png)
+
 ---
-## Key Insights
+## Key Visualizations
+
 ![Metrics](images/i1.png) 
 
 ![Metrics](images/i2.png)
@@ -68,6 +70,7 @@ Overtime is another pressure point tied to attrition.
 
 Employees in lower salary slabs (≤10k) show the highest attrition.
 Average monthly income of leavers ($4.8k) is much lower than stayers ($6.8k).
+
 34% of leavers had not been promoted within 2 years.
 65% of attrition employees did not receive stock options, weakening retention incentives.
 Employees who left reported lower job satisfaction (2.46 vs 2.78).
@@ -95,4 +98,5 @@ Expand stock option/bonus programs to more employees including overtime hours be
 For frequent travelers, Provide travel allowances, flexible schedules, or hybrid/remote options. And rotate travel responsibilities to prevent overload.
 
 ---
-
+## Contact 
+[LinkedIn](https://www.linkedin.com/in/adithya-prahasith/)
