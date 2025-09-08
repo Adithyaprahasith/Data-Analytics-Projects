@@ -43,7 +43,8 @@ Expand stock options  and revamp benefits for overtime hours.
 ## Key Metrics 
 
 ![Metrics](images/metrics.png)
-
+---
+## Key Insights
 ![Metrics](images/i1.png) 
 
 ![Metrics](images/i2.png)
