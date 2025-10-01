@@ -2,18 +2,18 @@
 
 This project analyzes FDA tobacco product complaint reports to uncover public health insights, forecast future risks, and build an intelligent Q&A system using Retrieval-Augmented Generation (RAG).
 
-View Detailed Analysis Here: https://immediate-stage-8d5.notion.site/Analytics-Data-Science-Portfolio-1dfe1eaece0980dfaae2e90c01461589
+View Detailed Analysis Here: https://adithyaprahasith.notion.site/OpenFDA-Tobacco-Reports-Analysis-1e4e1eaece0980ec98c2f07bab658140
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - **Objective**: Analyze and model tobacco complaint data submitted to the FDA to identify patterns, predict future health risks, and make the data accessible via an AI assistant.
 - **Dataset**: FDA Tobacco Product Problem Reports — including complaints about adverse health effects and product issues reported by consumers and health professionals.
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
 ### 1. **Exploratory Data Analysis (EDA)**
 - Identified a **major spike in 2019** linked to health problems (respiratory, neurological).
@@ -42,7 +42,7 @@ View Detailed Analysis Here: https://immediate-stage-8d5.notion.site/Analytics-D
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **Prophet** for time-series forecasting
@@ -52,7 +52,7 @@ View Detailed Analysis Here: https://immediate-stage-8d5.notion.site/Analytics-D
 
 ---
 
-## ✅ Results Summary
+##  Results Summary
 
 - **2019 spike** was caused by **health effects** (EVALI outbreak), not product failures.
 - **Health complaints** are **not strongly correlated** with product issues — supporting the theory of chemical/vape-related harm.
